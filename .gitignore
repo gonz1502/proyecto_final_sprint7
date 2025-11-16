@@ -143,6 +143,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+vehicles_final_env
+
 
 # Spyder project settings
 .spyderproject
